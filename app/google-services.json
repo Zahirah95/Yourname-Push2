@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393883099682",
+    "firebase_url": "https://pushzahirah.firebaseio.com",
+    "project_id": "pushzahirah",
+    "storage_bucket": "pushzahirah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393883099682:android:f5d872d2b6398ae4",
+        "android_client_info": {
+          "package_name": "com.example.user.yourname_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393883099682-0gfuq518rk42vdm20b1ulqdbs1ca30qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_arGx9LDdWopYcMo7h6KEZxwW75q2fNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
